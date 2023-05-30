@@ -1,4 +1,3 @@
-*.8xp linguist-detectable=true
 *.tiprogram linguist-detectable=true
 *.tiprogram linguist-language=Texas Instruments
 *.8xp linguist-language=z80 Texas Instruments
