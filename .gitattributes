@@ -1,2 +1,7 @@
 *.tiprogram linguist-language=Texas Instruments
 *.8xp linguist-language=z80 Texas Instruments
+*.89z linguist-language=TI-89 Texas Instruments
+*.9xz linguist-language=TI-Nspire Texas Instruments
+*.tib linguist-language=Texas Instruments
+*.rom linguist-language=Texas Instruments
+*.txt linguist-language=Texas Instruments
